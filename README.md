@@ -1,6 +1,5 @@
 # numberGuessingGame
 In this program, after execution of codes, it will generate a random no between 1 to 100 and you have to guess it.
-# -------------------- README.md --------------------
 
 # 🎯 Number Guessing Game (Python)
 
@@ -19,14 +18,6 @@ This game challenges the player to guess a randomly generated number between **1
 4. Type **`Quit`** or **`quit`** to exit the game at any time.  
 5. When the correct number is guessed, the game congratulates you and ends.  
 
----
-
-## 🧩 Example Output
-
-
-
----
-
 ## ⚙️ How It Works
 
 This project uses:
@@ -42,8 +33,7 @@ This project uses:
 2. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/number-guessing-game.git
-
-
+   
 ---
 
 ✅ **How to Use This Entire Block**
