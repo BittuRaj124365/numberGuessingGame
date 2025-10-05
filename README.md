@@ -1,5 +1,7 @@
 # numberGuessingGame
 In this program, after execution of codes, it will generate a random no between 1 to 100 and you have to guess it.
+# -------------------- README.md --------------------
+
 # 🎯 Number Guessing Game (Python)
 
 A simple and fun **Number Guessing Game** built using Python’s `random` module.  
@@ -21,3 +23,36 @@ This game challenges the player to guess a randomly generated number between **1
 
 ## 🧩 Example Output
 
+
+
+---
+
+## ⚙️ How It Works
+
+This project uses:
+- **`random.randint(1,100)`** to generate a random target number.
+- A **while loop** to keep the game running until the user wins or quits.
+- **Conditional statements** to compare the guesses and provide hints.
+
+---
+
+## 🚀 How to Run
+
+1. Make sure you have **Python 3** installed on your system.  
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/number-guessing-game.git
+
+
+---
+
+✅ **How to Use This Entire Block**
+1. Create a new folder, say `number-guessing-game`.  
+2. Inside it, make two files:  
+   - `guess_game.py` → paste the first Python code.  
+   - `README.md` → paste the second part (starting with `# 🎯 Number Guessing Game`).  
+3. Then run:
+   ```bash
+   git add .
+   git commit -m "Added Number Guessing Game with README"
+   git push origin main
